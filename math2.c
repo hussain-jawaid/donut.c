@@ -1,3 +1,5 @@
+// This is optimized version of the original donut.c code by Andy Sloane
+
 #include <stdio.h>
 #include <math.h>
 #include <stdint.h>
